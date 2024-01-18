@@ -1,4 +1,4 @@
-module github.com/shreemaan-abhishek/rasputin
+module github.com/ShIrishma-Coder/LEE
 
 go 1.19
 
