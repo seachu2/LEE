@@ -1,4 +1,4 @@
-module github.com/ShIrishma-Coder/LEE
+module github.com/seachu2/LEE
 
 go 1.19
 
